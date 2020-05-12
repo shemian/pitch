@@ -4,7 +4,7 @@
 
 
 # Author
-  **[Wanjiiru](https://github.com/shemian)**
+  **[shemian](https://github.com/shemian)**
 
 
 ## Link to Live Site 
